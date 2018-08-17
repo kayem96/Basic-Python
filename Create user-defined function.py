@@ -1,5 +1,5 @@
 # Create a (user-defined) function.  
-# Programed by Shafiul Kayem.  
+# Programmed by Shafiul Kayem.  
 
 def myfunction(Parameter1,Parameter2):
 	if (Parameter1 < Parameter2):
