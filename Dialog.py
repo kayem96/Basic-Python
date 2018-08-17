@@ -1,4 +1,5 @@
-# aks your name. than the bots will talk to you
+# Bots and user conversations
+# Programmed By Shafiul Kayem.
 a = input ('Bot >>> Hi! What is you name..?\nUser >>> My name is : ')
 print('Bot >> Nice to Meet you', a, '☺')
 b = input ('Bot >>> What is your age..?\nUser >>> My age : ')
