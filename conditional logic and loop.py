@@ -1,3 +1,6 @@
+# Logic and loop together.
+# Programmed By Shafiul Kayem.
+
 a = int(input('Type an integer >>> '))
 
 if (a <= 10): 
