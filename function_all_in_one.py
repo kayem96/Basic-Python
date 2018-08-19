@@ -1,3 +1,6 @@
+# Basic user-defined functions!
+# Pragrammed By Shafiul Kayem!
+
 def all_in_one(a, *args, **kwargs):
 	print(a)
 	print(args)
