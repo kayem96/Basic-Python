@@ -1,3 +1,5 @@
+#  Exception Handling.
+# Proggramed By Shafiul Kayem!
 try:
 	print('Please Enter any number for divide!')
 	tmp = int(input('First Number : '))
