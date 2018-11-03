@@ -1,4 +1,4 @@
-""" Genaretor Practice! Making Sequence using yeild """
+""" Genaretor Practice! Making Sequence using yield """
 """ programmed by Shafiul Kayem """
 
 def revrange(var1):
