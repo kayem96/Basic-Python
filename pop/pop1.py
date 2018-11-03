@@ -18,4 +18,4 @@ print(list2.pop())
 print(list2.pop()) 
   
 # Print list 
-print("New List after pop : ", list2, "\n") 
+print("New List after pop : ", list2, "\n")
